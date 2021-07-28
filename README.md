@@ -1,4 +1,4 @@
-# vue-scroll-progressBar
+# 📜 vue-scroll-progressBar
 
 - [Docs](#docs)
 - [Screeenshot](#screenshot)
