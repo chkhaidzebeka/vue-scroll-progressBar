@@ -42,6 +42,6 @@ export function createMyApp() {
 | width   | String        | "0%" | false |
 | height   | String        | "5px" | false |
 
-## Screeenshot
+## Screenshot
 
 ![Demo Image](https://i.imgur.com/9MlXM7Q.png)
