@@ -21,7 +21,7 @@ export default defineComponent({
     },
     setup(props) {
         window.addEventListener("DOMContentLoaded", (): void => {
-            const loader: HTMLScriptElement =
+            const loader: HTMLDivElement =
                 document.querySelector("#_loader_spinner");
 
             // set styles
@@ -44,6 +44,6 @@ export default defineComponent({
             };
         });
 
-        return {};
+        return { };
     },
 });
